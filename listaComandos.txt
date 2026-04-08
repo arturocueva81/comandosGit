@@ -1,1 +1,2 @@
 git clone: sirve para crear una copia local de un repositorio remoto de una URL de GitHUB
+git commit: sirve para guardar los cambios realizados en el repositorio local con un mensaje descriptivo
