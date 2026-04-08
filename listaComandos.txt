@@ -1,0 +1,1 @@
+git clone: sirve para crear una copia local de un repositorio remoto de una URL de GitHUB
